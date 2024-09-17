@@ -1,64 +1,35 @@
 {
   "main": {
-    "id": "8593a51cc47a8986",
+    "id": "97a7641e131cb75f",
     "type": "split",
     "children": [
       {
-        "id": "30afcc55d4fb3eba",
+        "id": "ccc13bae96c991fc",
         "type": "tabs",
         "children": [
           {
-            "id": "b4cfcaa491aaa112",
+            "id": "365224162c9254e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Liderazgo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc9451e2d69ef814",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Liderazgo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14c2a357fcd56d87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Preguntas para fomentar el autoconocimiento.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2a073facb3c46c1a",
+    "id": "ed24809540640241",
     "type": "split",
     "children": [
       {
-        "id": "5eab86073670be9e",
+        "id": "b6678a239ad2346b",
         "type": "tabs",
         "children": [
           {
-            "id": "8e1dab17eb0b32f2",
+            "id": "c16cc96c4fb4443a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -68,7 +39,7 @@
             }
           },
           {
-            "id": "cc4f780db4b73fff",
+            "id": "55713ae0274487e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -83,7 +54,7 @@
             }
           },
           {
-            "id": "9b05c2f837c683ab",
+            "id": "276b913402a973aa",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -97,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "430e7f83d4d1bb1f",
+    "id": "c69af1084b20766a",
     "type": "split",
     "children": [
       {
-        "id": "2999801b1cfe6f46",
+        "id": "6f93be255975b521",
         "type": "tabs",
         "children": [
           {
-            "id": "d5bfd02857d5a3ca",
+            "id": "5214ac48d63e5e47",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preguntas para fomentar el autoconocimiento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,19 +92,18 @@
             }
           },
           {
-            "id": "1b6db0263735de44",
+            "id": "766394695d5f5356",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preguntas para fomentar el autoconocimiento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f1f87f44bfeda41f",
+            "id": "2272533b056588d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -145,13 +114,11 @@
             }
           },
           {
-            "id": "2de52fe4c13df830",
+            "id": "76cc7afd9f80356a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Preguntas para fomentar el autoconocimiento.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -171,17 +138,8 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "14c2a357fcd56d87",
+  "active": "365224162c9254e3",
   "lastOpenFiles": [
-    "Liderazgo democrático.md",
-    "Liderazgo carismático.md",
-    "Liderazgo burocrático.md",
-    "Liderazgo autocrático.md",
-    "Liderazgo.md",
-    "Desarrollo personal.md",
-    "Autoconocimiento.md",
-    "Preguntas para fomentar el autoconocimiento.md",
-    "Visión.md",
-    "Welcome.md"
+    "Liderazgo/Liderazgo.md"
   ]
 }
