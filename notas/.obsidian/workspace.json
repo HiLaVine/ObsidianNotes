@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "e22045ad678ac99a",
+    "type": "split",
+    "children": [
+      {
+        "id": "05fd66ca85f619cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d1c22bd990fa686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Constantes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Constantes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4bbe71e83382d20",
+    "type": "split",
+    "children": [
+      {
+        "id": "5360ebca6c126327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfd36ada58ef9c9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "066a63030def9fed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed5fd3b04b9a6ddc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "25b15f52cff756b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "55cdad75f3d7b613",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec1770b81fa879e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Variables"
+            }
+          },
+          {
+            "id": "efa2c65dd1879030",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Variables.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Variables"
+            }
+          },
+          {
+            "id": "052bae25365fbb11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cc8322d64b9e829d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Variables.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Variables"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d1c22bd990fa686",
+  "lastOpenFiles": [
+    "Declarar Variables.md",
+    "Constantes.md",
+    "Variables.md",
+    "Palabras reservadas.md",
+    "Declaracion y el modo estricto.md",
+    "Cambiar los valores de las variables.md",
+    "Inicializar variables.md",
+    "Pasted image 20241106231600.png"
+  ]
+}
