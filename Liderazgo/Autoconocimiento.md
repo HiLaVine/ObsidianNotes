@@ -1,4 +1,4 @@
-El **autoconocimiento** es la capacidad de una persona para entender y reflexionar sobre sus propias emociones, pensamientos, valores, creencias, fortalezas, debilidades, motivaciones y comportamientos. Es un proceso de autoexploración que permite a las personas obtener una comprensión profunda de quiénes son y cómo interactúan con el mundo que les rodea. Este es un aspecto fundamental del desarrollo personal, ya que proporciona la base para tomar decisiones conscientes y coherentes con las metas y valores individuales.
+El **autoconocimiento** es la capacidad de una persona para entender y reflexionar sobre sus propias emociones, pensamientos, valores, creencias, fortalezas, debilidades, motivaciones y comportamientos. Es un proceso de auto exploración que permite a las personas obtener una comprensión profunda de quiénes son y cómo interactúan con el mundo que les rodea. Este es un aspecto fundamental del desarrollo personal, ya que proporciona la base para tomar decisiones conscientes y coherentes con las metas y valores individuales.
 
 ## Importancia del autoconocimiento:
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Constantes.md",
+                "file": "Scope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Constantes"
+              "title": "Scope"
             }
           }
         ]
@@ -165,8 +165,11 @@
   },
   "active": "8d1c22bd990fa686",
   "lastOpenFiles": [
-    "Declarar Variables.md",
+    "Funciones.md",
+    "Scope.md",
+    "Indentación.md",
     "Constantes.md",
+    "Declarar Variables.md",
     "Variables.md",
     "Palabras reservadas.md",
     "Declaracion y el modo estricto.md",
