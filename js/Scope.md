@@ -1,4 +1,5 @@
-Alcance de las [[Variables]], [[Funciones]] o bloque de código es un codigo, y de donde a donde son visibles.
+Alcance de las [[Variables]], [[Funciones]] o bloque de código es un código, y de donde a donde son visibles.
+También hay que tener en cuenta la [[Indentación]]. 
 ## Bloque de programa (program blocks)
 
 ### **let** y **const**
@@ -17,4 +18,41 @@ console.log(height); // -> 180
 console.log(weight); // -> Uncaught ReferenceError: weight is not defined
 ~~~
 
-Donde vemos que 
+Donde vemos que la variable "height" es una variable global, al estar fuera del bloque. Y que "weight" es una variable local. El scope esta limitado por el bloque donde esta declarada. 
+Y eso ve se mas claramente en el siguiente ejemplo:
+
+~~~js
+let  height  =  200;
+{
+         let  weight  =  100;
+         {
+                 let  info  =  "tall";
+                 console.log(height);  //  ->  200
+                 console.log(weight);  //  ->  100
+                 console.log(info);  //  ->  tall
+         }
+         console.log(height);  //  ->  200
+         console.log(weight);  //  ->  100
+         console.log(info);  //  ->  Uncaught  ReferenceError:  info  is  not  defined
+   }
+~~~
+
+Donde tenemos la variable info, que solo es visible dentro del bloque mas interno, y que las otras variables son visibles dentro de sus niveles. 
+
+### **var**
+
+En el caso de la palabra reservada var que ya pertenece a una versión de JavaScript vieja, al declarar una variable con este método, lo que tenemos es que todas las variables son globales, y no se respeta el scope antes mencionado. 
+
+~~~js
+var  height  =  180;
+{
+         var  weight  =  70;
+         console.log(height);  //  ->  180
+         console.log(weight);  //  ->  70	
+}
+console.log(height);  //  ->  180
+console.log(weight);  //  ->  70
+~~~
+
+Esto no es implícitamente malo, ya que el único momento donde si podremos declara una variable con **var** es en las [[Funciones]]. Ya que **var** al estar dentro del bloque de una función, dicha variable solo se podrá usar dentro de la misma función, como si fuera con **let**. 
+

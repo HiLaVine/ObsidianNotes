@@ -14,3 +14,5 @@ Y JS no verifica la relación entre el nombre y lo que contiene, nombrar bien a 
 En JS podemos usar números, caracteres especiales, y letras mayúsculas y minúsculas. Solo no podemos poner un numero al principio. También JS reconoce las letras mayúsculas y minúsculas, por lo que **test**, **Test** y **TEST** son tres variables diferentes. 
 
 Y también respetar las [[Palabras reservadas]] del lenguaje. 
+
+En JavaScript tenemos el [[Shodowing de variables]] que es cuando podemos declarar una variable local y una global con el mismo nombre. 

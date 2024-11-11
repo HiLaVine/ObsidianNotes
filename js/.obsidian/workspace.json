@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scope.md",
+                "file": "Shodowing de variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scope"
+              "title": "Shodowing de variables"
             }
           }
         ]
@@ -165,16 +165,17 @@
   },
   "active": "8d1c22bd990fa686",
   "lastOpenFiles": [
-    "Funciones.md",
-    "Scope.md",
-    "Indentación.md",
-    "Constantes.md",
-    "Declarar Variables.md",
     "Variables.md",
+    "Shodowing de variables.md",
+    "Scope.md",
+    "Funciones.md",
+    "Pasted image 20241106231600.png",
     "Palabras reservadas.md",
-    "Declaracion y el modo estricto.md",
-    "Cambiar los valores de las variables.md",
     "Inicializar variables.md",
-    "Pasted image 20241106231600.png"
+    "Indentación.md",
+    "Declarar Variables.md",
+    "Declaracion y el modo estricto.md",
+    "Constantes.md",
+    "Cambiar los valores de las variables.md"
   ]
 }
