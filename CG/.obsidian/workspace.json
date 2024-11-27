@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "e22045ad678ac99a",
+    "id": "fce7701684984e7c",
     "type": "split",
     "children": [
       {
-        "id": "05fd66ca85f619cf",
+        "id": "6479f5c119f556d2",
         "type": "tabs",
         "children": [
           {
-            "id": "8d1c22bd990fa686",
+            "id": "b87cd212d92049af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shodowing de variables.md",
+                "file": "Course 1/Introducción a la ciberseguridad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shodowing de variables"
-            }
-          },
-          {
-            "id": "830a18173dedd924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tipos de datos y conversiones de tipo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tipos de datos y conversiones de tipo"
+              "title": "Introducción a la ciberseguridad"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d4bbe71e83382d20",
+    "id": "7b88648eab9a3552",
     "type": "split",
     "children": [
       {
-        "id": "5360ebca6c126327",
+        "id": "32dabc18e5b2dfde",
         "type": "tabs",
         "children": [
           {
-            "id": "cfd36ada58ef9c9b",
+            "id": "9cd642d23cb27789",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +47,7 @@
             }
           },
           {
-            "id": "066a63030def9fed",
+            "id": "32a8b6c381e94882",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +64,7 @@
             }
           },
           {
-            "id": "ed5fd3b04b9a6ddc",
+            "id": "7ea41198bd43a7ae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "25b15f52cff756b1",
+    "id": "65ed7e39d23a4e6b",
     "type": "split",
     "children": [
       {
-        "id": "55cdad75f3d7b613",
+        "id": "77c78571b45ef6ca",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1770b81fa879e7",
+            "id": "12bca30f5df5da9f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variables.md",
+                "file": "Course 1/Introducción a la ciberseguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Variables"
+              "title": "Backlinks for Introducción a la ciberseguridad"
             }
           },
           {
-            "id": "efa2c65dd1879030",
+            "id": "2da20787bdc9bf71",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variables.md",
+                "file": "Course 1/Introducción a la ciberseguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Variables"
+              "title": "Outgoing links from Introducción a la ciberseguridad"
             }
           },
           {
-            "id": "052bae25365fbb11",
+            "id": "5548e8f0631b316b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,15 +134,15 @@
             }
           },
           {
-            "id": "cc8322d64b9e829d",
+            "id": "89830770294b5038",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variables.md"
+                "file": "Course 1/Introducción a la ciberseguridad.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Variables"
+              "title": "Outline of Introducción a la ciberseguridad"
             }
           }
         ]
@@ -177,21 +162,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "830a18173dedd924",
+  "active": "b87cd212d92049af",
   "lastOpenFiles": [
-    "Palabras reservadas.md",
-    "Variables.md",
-    "Constantes.md",
-    "Declarar Variables.md",
-    "Cambiar los valores de las variables.md",
-    "Tipos de datos y conversiones de tipo.md",
-    "Shodowing de variables.md",
-    "Untitled",
-    "Scope.md",
-    "Funciones.md",
-    "Pasted image 20241106231600.png",
-    "Inicializar variables.md",
-    "Indentación.md",
-    "Declaracion y el modo estricto.md"
+    "Course 1/What you'll learn.md",
+    "Course 1/Introducción a la ciberseguridad.md",
+    "Glosario/Glosario 1.md",
+    "Glosario",
+    "Course 2/Basic security tools.md",
+    "Course 2",
+    "Course 2/What you'll learn.md",
+    "Course 1",
+    "Course 2/Protect assets and data.md",
+    "Course 2/Security frameworks and controls.md",
+    "Course 2/Security audits.md",
+    "Course 2/CISSP's eight security domains.md"
   ]
 }
