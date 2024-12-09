@@ -44,6 +44,8 @@ Compromiso de correo electrónico empresarial (BEC): Tipo de ataque de suplantac
 
 Confidencialidad: Propiedad según la cual únicamente las personas autorizadas pueden acceder a activos o datos específicos.
 
+**Cumplimiento** **normativo (compliance)** es el proceso de adhesión a normas internas y reglamentos externos que permite a las organizaciones evitar multas, auditorías y fallos de seguridad.
+
 Controles de seguridad: Pautas diseñadas para abordar y eliminar riesgos de seguridad específicos, como la alteración o la eliminación de información de perfiles, entre otros.
 
 D
@@ -122,6 +124,8 @@ Protección de la privacidad: Acto de proteger la información personal de usos 
 
 Protección y preservación de la evidencia: Proceso de trabajar adecuadamente con evidencia digital frágil y volátil.
 
+**Postura de seguridad** es la capacidad de una organización para administrar su defensa de activos y datos críticos y reaccionar ante los cambios. Una fuerte postura de seguridad conduce a un menor riesgo para la organización.
+
 Punto de dato: Elemento de información específico.
 
   
@@ -135,6 +139,10 @@ S
 Seguridad: Actividad de garantizar la confidencialidad, integridad y disponibilidad de la información mediante la protección de redes, dispositivos, personas y datos contra el acceso no autorizado o la explotación criminal.
 
 Seguridad de redes: Práctica de evitar accesos no autorizados a la infraestructura de red de una organización.
+
+**Seguridad de la red** es un conjunto de prácticas que buscan evitar accesos no autorizados a la infraestructura de red de una organización. Esto incluye datos, servicios, sistemas y dispositivos que se almacenan en la red de una organización.
+
+**Seguridad en la nube** es el proceso de garantizar que los activos almacenados en la nube estén configurados o establecidos correctamente, y su acceso limitado a los/as usuarios/as autorizados/as. La nube es una red formada por un conjunto de servidores o computadoras que almacenan recursos y datos en ubicaciones físicas remotas conocidas como centros de datos a los que se puede acceder a través de Internet. La seguridad en la nube es un subcampo creciente de la ciberseguridad que se centra específicamente en la protección de este tipo de datos, aplicaciones e infraestructuras.
 
 Sistema de detección de intrusiones (IDS): Aplicación que monitorea la actividad del sistema y alerta sobre posibles accesos no autorizados.
 
