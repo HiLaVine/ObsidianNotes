@@ -1,4 +1,3 @@
-
 Primero vamos a hacer un pequeño repaso de conceptos básicos. 
 
 Virus de computadora: código malicioso escrito para interferir en las operaciones de la computadora y causar daño a los datos y el software. 

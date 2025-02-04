@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b87cd212d92049af",
+            "id": "c313f8b2004705dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Habilidades básicas para profesionales en ciberseguridad..md",
+                "file": "Conoce a los atacantes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Habilidades básicas para profesionales en ciberseguridad."
+              "title": "Conoce a los atacantes"
             }
           },
           {
-            "id": "428f8ebd60855def",
+            "id": "6e05dd52a7589f34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ataques de ciberseguridad pasados.md",
+                "file": "Introducción a los marcos y controles de seguridad..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ataques de ciberseguridad pasados"
-            }
-          },
-          {
-            "id": "2d3d146c57c024fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ataques comunes y su eficacia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ataques comunes y su eficacia"
-            }
-          },
-          {
-            "id": "9984286ebd7b6bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introducción a los dominios de seguridad CISSP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introducción a los dominios de seguridad CISSP"
+              "title": "Introducción a los marcos y controles de seguridad."
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "65ed7e39d23a4e6b",
@@ -206,21 +177,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9984286ebd7b6bb9",
+  "active": "6e05dd52a7589f34",
   "lastOpenFiles": [
+    "Conoce a los atacantes.md",
+    "Introducción a los marcos y controles de seguridad..md",
+    "Untitled",
+    "Como determinar el tipo de ataque.md",
+    "Dominios de seguridad CISSP.md",
+    "Ataques comunes y su eficacia.md",
+    "Ataques en la era digital.md",
+    "Glosario/Glosario 1.md",
+    "Ataques de ciberseguridad pasados.md",
+    "Metodo/Método de estudio.md",
+    "Glosario/Glosario 2.md",
+    "Habilidades básicas para profesionales en ciberseguridad.md",
+    "Triada de la CIA.md",
     "Pasted image 20250121143705.png",
     "Pasted image 20250121143655.png",
-    "Introducción a los dominios de seguridad CISSP.md",
-    "Ataques de ciberseguridad pasados.md",
-    "Ataques comunes y su eficacia.md",
     "Habilidades básicas para profesionales en ciberseguridad..md",
-    "Triada de la CIA.md",
-    "Ataques en la era digital.md",
     "Introducción a la ciberseguridad.md",
-    "Untitled",
-    "Metodo/Método de estudio.md",
     "Metodo",
-    "Glosario/Glosario 1.md",
     "Importancia de la ciberseguridad..md",
     "What you'll learn.md",
     "Course 2/Basic security tools.md",
