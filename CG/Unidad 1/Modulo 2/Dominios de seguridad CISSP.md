@@ -1,6 +1,6 @@
 A partir del 2022 el CISSP (Certified Information Systems Security Professional) dividió las responsabilidades en 8 dominios que son los siguientes: 
 
-![[Pasted image 20250121143705.png]]
+![[Pasted image 20250121143655.png]]
 
 Que vamos a ver a profundidad a continuación: 
 

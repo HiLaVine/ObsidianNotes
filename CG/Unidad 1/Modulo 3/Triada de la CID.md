@@ -1,3 +1,5 @@
+Es una guía fundamental que informa como las organizaciones evalúan el riesgo y crean sistemas y políticas de seguridad. 
+
 Esta es un modelo de ciberseguridad que se basa en tres principios para proteger la información: 
 
 **Confidencialidad:** Se refiere a mantener los datos privados o secretos, controlando el acceso para evitar que se compartan de forma no autorizada. 

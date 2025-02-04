@@ -1,4 +1,4 @@
-La ciberseguridad es la práctica de garantizar la integridad, confidencialidad y disponibilidad de la información ([[Triada de la CIA]]).
+La ciberseguridad es la práctica de garantizar la integridad, confidencialidad y disponibilidad de la información ([[Triada de la CID]]).
 Esto implica proteger las redes, dispositivos, personas y datos de acceso no autorizado o la explotación delictiva. 
 
 Threat actor: Cualquier grupo o persona que represente una amenaza o riesgo de seguridad. 
