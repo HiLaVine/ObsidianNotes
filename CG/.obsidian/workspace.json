@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 2/Modulo 3/NIST Frameworks.md",
+                "file": "Glosario/Glosario 1.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NIST Frameworks"
+              "title": "Glosario 1.2"
+            }
+          },
+          {
+            "id": "d6bcfb024ac55f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glosario/Glosario 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Glosario 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,17 +178,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f40adefc2ccbc7ae",
+  "active": "d6bcfb024ac55f99",
   "lastOpenFiles": [
-    "Unidad 1/Modulo 3/NIST Cybersecurity Framework (CSF).md",
-    "Unidad 2/Modulo 3/NIST Frameworks.md",
-    "Unidad 1/Modulo 3/Triada de la CID.md",
-    "Unidad 2/Modulo 2/Controles.md",
-    "Unidad 2/Modulo 2/Como se vinculan los Marcos y Controles.md",
-    "Unidad 2/Modulo 2/Marcos.md",
-    "Unidad 1/Modulo 2/Dominios de seguridad CISSP.md",
-    "Unidad 2/Modulo 1/Explora los dominios de seguridad del CISSP.md",
+    "Glosario/Glosario 1.2.md",
+    "Glosario/Glosario 2.md",
+    "Glosario/Glosario 1.md",
+    "Unidad 2/Modulo 3/Fases de un manual de estrategias para responder a incidentes.md",
+    "Unidad 2/Modulo 3/Registros y herramientas SIEM.md",
+    "Unidad 1/Modulo 4/Herramientas habituales de ciberseguridad.md",
     "Unidad 1/Modulo 4/Uso de herramientas para proteger las operaciones comerciales..md",
+    "Unidad 2/Modulo 2/Auditorías de seguridad.md",
+    "Unidad 2/Modulo 2/Controles.md",
+    "Unidad 2/Modulo 2/Principios de seguridad de OWASP.md",
+    "Unidad 2/Modulo 2/Marcos.md",
+    "Unidad 2/Modulo 2/Marco NIST CSF.md",
+    "Unidad 2/Modulo 2/Como se vinculan los Marcos y Controles.md",
+    "Unidad 2/Modulo 1/Explora los dominios de seguridad del CISSP.md",
+    "Unidad 1/Modulo 3/NIST Cybersecurity Framework (CSF).md",
+    "Unidad 1/Modulo 3/Triada de la CID.md",
+    "Unidad 1/Modulo 2/Dominios de seguridad CISSP.md",
     "2025-02-03.md",
     "Unidad 2/Modulo 4",
     "Unidad 2/Modulo 3",
@@ -182,9 +205,6 @@
     "Unidad 2",
     "Glosario/Glosario 1.4.md",
     "Glosario/Glosario 1.3.md",
-    "Glosario/Glosario 1.2.md",
-    "Glosario/Glosario 1.md",
-    "Unidad 1/Modulo 4/Herramientas habituales de ciberseguridad.md",
     "Unidad 1/Modulo 3/Introducción a los marcos y controles de seguridad..md",
     "Unidad 1/Modulo 2/Ataques comunes y su eficacia.md",
     "Unidad 1/Modulo 2/Pasted image 20250121143655.png",
@@ -193,15 +213,10 @@
     "Unidad 1/Modulo 1",
     "Unidad 1/Modulo 2/Conoce a los atacantes.md",
     "Unidad 1/Modulo 2/Como determinar el tipo de ataque.md",
-    "Unidad 1/Modulo 2/Ataques en la era digital.md",
-    "Unidad 1/Modulo 2/Ataques de ciberseguridad pasados.md",
     "Unidad 1/Modulo 4",
     "Unidad 1/Modulo 2",
-    "Unidad 1/Modulo 3/La ética en la ciberseguridad.md",
     "Pasted image 20250121143705.png",
     "Unidad 1/Modulo 3",
-    "Unidad 1",
-    "Metodo/Método de estudio.md",
-    "Habilidades básicas para profesionales en ciberseguridad..md"
+    "Unidad 1"
   ]
 }
