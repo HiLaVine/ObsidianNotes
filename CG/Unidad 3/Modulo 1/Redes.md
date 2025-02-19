@@ -1,8 +1,8 @@
 ## ¿Qué es una red?
 
-Esta es un grupo de dispositivios conectados. Ya sea una computadora, celuar, dispositivos inteligentes, etc. y puede ser tanto en casa, como en la oficina. 
+Esta es un grupo de dispositivos conectados. Ya sea una computadora, celular, dispositivos inteligentes, etc. y puede ser tanto en casa, como en la oficina. 
 
-Los dispositivos en una red puden comunicarse entre si mediante cables de red o conexiones inalámbricas. Las redes de tu casa y oficina pueden comunicarse con redes en otros lugares y sus dispositivos. Y para estas comunicaciones se usan direcciones únicas o identificadores. 
+Los dispositivos en una red pueden comunicarse entre si mediante cables de red o conexiones inalámbricas. Las redes de tu casa y oficina pueden comunicarse con redes en otros lugares y sus dispositivos. Y para estas comunicaciones se usan direcciones únicas o identificadores. 
 
 Estas direcciones se llaman **IP** y **MAC**. 
 

@@ -1,5 +1,3 @@
-
-
 Las principales herramientas que conforman una red son los siguientes: 
 
 - Hub: es un dispositivo de red que transmite información a todos los dispositivos de la red. Este es como una torre de radio que difunde una señal a todos las radios que esten sintonizando en la frecuencia correcta.
