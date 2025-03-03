@@ -11,10 +11,14 @@
             "id": "c64c9e2d2186f9e4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Componentes, tipos y conexiones de red.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Componentes, tipos y conexiones de red"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "53e8113cc733edeb",
@@ -162,5 +167,10 @@
     }
   },
   "active": "c64c9e2d2186f9e4",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Comunicación en un mundo conectado.md",
+    "Pasted image 20250302193229.png",
+    "Pasted image 20250302192459.png",
+    "Componentes, tipos y conexiones de red.md"
+  ]
 }
