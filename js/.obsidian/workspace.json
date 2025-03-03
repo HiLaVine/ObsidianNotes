@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -179,19 +180,19 @@
   },
   "active": "830a18173dedd924",
   "lastOpenFiles": [
-    "Palabras reservadas.md",
     "Variables.md",
-    "Constantes.md",
-    "Declarar Variables.md",
     "Cambiar los valores de las variables.md",
-    "Tipos de datos y conversiones de tipo.md",
-    "Shodowing de variables.md",
-    "Untitled",
-    "Scope.md",
+    "Constantes.md",
+    "Declaracion y el modo estricto.md",
+    "Declarar Variables.md",
     "Funciones.md",
-    "Pasted image 20241106231600.png",
-    "Inicializar variables.md",
     "Indentación.md",
-    "Declaracion y el modo estricto.md"
+    "Inicializar variables.md",
+    "Palabras reservadas.md",
+    "Pasted image 20241106231600.png",
+    "Scope.md",
+    "Shodowing de variables.md",
+    "Tipos de datos y conversiones de tipo.md",
+    "Untitled"
   ]
 }
