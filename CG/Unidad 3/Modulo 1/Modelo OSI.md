@@ -1,4 +1,4 @@
-![[Pasted image 20250226112656.png]]
+![[Pasted image 20250226112643.png]]
 
 Capa 7: Capa de aplicación. 
 
