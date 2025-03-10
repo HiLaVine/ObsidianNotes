@@ -37,7 +37,7 @@ Supervisa la recepción de los paquetes desde la capa 2 y las entrega al destino
 
 Capa 2: Capa de enlace de datos. 
 
-Organiza el envio de datos y la recepcion de paquetes de datos dentro de una sola red. Esta capa incluye switches en la red local y las tarjetas de interfaz de red en los protocolos locales. 
+Organiza el envió de datos y la recepción de paquetes de datos dentro de una sola red. Esta capa incluye switches en la red local y las tarjetas de interfaz de red en los protocolos locales. 
 
 En la capa de enlace de datos se utilizan protocolos como el protocolo de control de red (NCP - Network Control Protocol), el control de enlace de datos de alto nivel (HDLC - High-Level Data Link Control) y el protocolo de control de enlace de datos sincrónico (SDLC - Synchronous Data Link Control).
 
