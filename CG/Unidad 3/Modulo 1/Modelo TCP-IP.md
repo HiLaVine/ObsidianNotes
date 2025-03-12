@@ -47,6 +47,7 @@ Y los puertos comunes son los siguientes:
 
 ![[Pasted image 20250219120415.png]]
 
+![[Suite_de_Protocolos_TCPIP.png]]
 ## Comparación del Modelo TCP/IP con el modelo OSI
 
 ![[Pasted image 20250219121731.png]]
