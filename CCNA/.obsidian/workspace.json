@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "76c9a170b1909f40",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9ae034e0029a80e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9134f09bf0188f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes convergentes y Arquitectura de Red.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redes convergentes y Arquitectura de Red"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df9e82f3e8dde166",
+    "type": "split",
+    "children": [
+      {
+        "id": "85b5b70c70345c82",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b0244bb03b67ad2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4eecfb7e3c67bc5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ea3727e31004269f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7bbfc2875084491b",
+    "type": "split",
+    "children": [
+      {
+        "id": "78bffb41abd2509f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6b4b2073f4403cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redes convergentes y Arquitectura de Red.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Redes convergentes y Arquitectura de Red"
+            }
+          },
+          {
+            "id": "17e97542af7f4016",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Redes convergentes y Arquitectura de Red.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Redes convergentes y Arquitectura de Red"
+            }
+          },
+          {
+            "id": "a8d4202374e1bb19",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e5533db43107f66e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redes convergentes y Arquitectura de Red.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Redes convergentes y Arquitectura de Red"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9134f09bf0188f91",
+  "lastOpenFiles": [
+    "Introducción a las redes/Dispositivos de red y sus conexiones.md",
+    "Redes convergentes y Arquitectura de Red.md",
+    "Introducción a las redes",
+    "Welcome.md"
+  ]
+}
