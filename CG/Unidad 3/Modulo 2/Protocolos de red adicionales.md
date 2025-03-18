@@ -1,4 +1,4 @@
-Anki => NO
+Anki => si
 ## Network Address Translation (NAT)
 
 Es un tipo de red en la que un router o firewall traduce direcciones IP privadas en una única dirección IP pública para que los dispositivos de una red interna puedan acceder a internet o comunicarse con otras redes. 

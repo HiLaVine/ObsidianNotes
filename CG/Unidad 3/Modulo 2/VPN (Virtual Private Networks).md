@@ -1,4 +1,3 @@
-Anki => NO
 Una VPM es un servicio de seguridad que cambia tu direccion ip publica y oculta tu ubicacion virtual para proteger tus datos al usar una red publica como internet. 
 
 Estas tambien cifran tus datos al transferirlos para protegerlos. 

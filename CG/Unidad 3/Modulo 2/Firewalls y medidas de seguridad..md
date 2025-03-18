@@ -1,3 +1,4 @@
+
 Un firewall es un dispositivo de seguridad que monitorea el trafico de una red. 
 
 Autoriza o bloquea el tráfico según el conjunto de reglas de seguridad. 
