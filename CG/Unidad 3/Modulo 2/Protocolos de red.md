@@ -1,3 +1,4 @@
+Anki => SI
 Son un conjunto de reglas usadas por dos o mas dispositivos en una red para describir el orden de entrega y estructura de los datos. 
 
 Básicamente son como instrucciones que vienen en el paquete de datos.   

@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6bcfb024ac55f99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glosario/Glosario 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Glosario 2"
-            }
-          },
-          {
-            "id": "f990edabcfb6c419",
+            "id": "75e049ddf2b3aabc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,21 +22,21 @@
             }
           },
           {
-            "id": "b58907288a0944da",
+            "id": "5921c181a21c5c1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 3/Modulo 2/Protocolos de red.md",
+                "file": "Glosario/Glosario 3.2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Protocolos de red"
+              "title": "Glosario 3.2"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,8 +178,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b58907288a0944da",
+  "active": "5921c181a21c5c1f",
   "lastOpenFiles": [
+    "Glosario/Glosario 3.1.md",
+    "Glosario/Glosario 3.2.md",
+    "Unidad 3/Modulo 2/Firewalls y medidas de seguridad..md",
+    "Unidad 3/Modulo 2/Servidor proxy.md",
+    "Unidad 3/Modulo 2/Pasted image 20250317185713.png",
+    "Unidad 3/Modulo 2/VPN (Virtual Private Networks).md",
+    "Unidad 3/Modulo 2/Protocolos de red adicionales.md",
+    "Unidad 3/Modulo 2/Protocolos de red.md",
+    "Glosario/Glosario 2.md",
+    "Pasted image 20250317185641.png",
+    "Unidad 3/Modulo 2/Zona de seguridad.md",
     "Unidad 3/Modulo 1/Intro a la comunicación en la red.md",
     "Unidad 3/Modulo 1/Modelo OSI.md",
     "Unidad 3/Modulo 1/Herramientas de red.md",
@@ -202,8 +199,6 @@
     "Unidad 3/Modulo 1/Suite_de_Protocolos_TCPIP.png",
     "Unidad 3/Modulo 1/Redes.md",
     "Unidad 3/Modulo 1/Modelo TCP-IP.md",
-    "Unidad 3/Modulo 2/Protocolos de red.md",
-    "Glosario/Glosario 3.1.md",
     "Unidad 2/Modulo 2/Principios de seguridad de OWASP.md",
     "Unidad 2/Modulo 2/Marcos.md",
     "Unidad 2/Modulo 2/Marco NIST CSF.md",
@@ -217,7 +212,6 @@
     "Unidad 3/Modulo 1/Pasted image 20250226112643.png",
     "Unidad 3/Modulo 1/Pasted image 20250219121731.png",
     "Unidad 3/Modulo 1/Pasted image 20250219120415.png",
-    "Glosario/Glosario 2.md",
     "Unidad 3/Modulo 1/Pasted image 20250226112656.png",
     "Glosario/Glosario 1.2.md",
     "Unidad 3/Modulo 4",
@@ -226,17 +220,11 @@
     "Unidad 3/Modulo 1",
     "Unidad 3",
     "Glosario/Glosario 1.md",
-    "Unidad 1/Modulo 4/Herramientas habituales de ciberseguridad.md",
-    "Unidad 1/Modulo 4/Uso de herramientas para proteger las operaciones comerciales..md",
-    "Unidad 2/Modulo 1/Explora los dominios de seguridad del CISSP.md",
-    "Unidad 1/Modulo 3/NIST Cybersecurity Framework (CSF).md",
-    "Unidad 1/Modulo 3/Triada de la CID.md",
     "Unidad 2/Modulo 4",
     "Unidad 2/Modulo 3",
     "Unidad 2/Modulo 2",
     "Unidad 2/Modulo 1",
     "Unidad 2",
-    "Unidad 1/Modulo 2/Pasted image 20250121143655.png",
-    "Pasted image 20250121143705.png"
+    "Unidad 1/Modulo 2/Pasted image 20250121143655.png"
   ]
 }
