@@ -18,4 +18,3 @@ Las medidas mas comunes que usan las organizaciones utilizan para prevenir ataqu
 - Salting: Agraga caracteres aleatorios a las contraseñas hash, aumentando la longitud y complejidad de los valores hash.
 - Autenticacion de multiples factores (MFA): es una mediad de seguridad que requiere que un usuario verifique su identidad de dos o mas maneras para acceder a un sistema o red.
 - CAPTCHA y reCAPTCHA: Significa prueba de turing publica y automatizada para diferencias entre maquinas y humanos (Completely Automated Public Turing Test To Tell Computers and Humans Apart)
-- 
