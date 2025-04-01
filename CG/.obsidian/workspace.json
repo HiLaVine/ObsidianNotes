@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 3/Modulo 3/Registros de tcpdump.md",
+                "file": "Unidad 3/Modulo 4/Aplicaciones de seguridad de red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Registros de tcpdump"
+              "title": "Aplicaciones de seguridad de red"
             }
           }
         ],
@@ -194,9 +194,9 @@
   },
   "active": "9cd642d23cb27789",
   "lastOpenFiles": [
+    "Unidad 3/Modulo 3/Registros de tcpdump.md",
     "Unidad 3/Modulo 3/Pasted image 20250325113001.png",
     "Unidad 3/Modulo 3/Ataques de denegación de servicio (DoS).md",
-    "Unidad 3/Modulo 3/Registros de tcpdump.md",
     "Unidad 3/Modulo 3/Intrusiones en la red.md",
     "Unidad 3/Modulo 2/Servidor proxy.md",
     "Unidad 3/Modulo 2/Zona de seguridad.md",
@@ -238,7 +238,6 @@
     "Unidad 2/Modulo 3",
     "Unidad 2/Modulo 2",
     "Unidad 2/Modulo 1",
-    "Unidad 2",
-    "Unidad 1/Modulo 2/Pasted image 20250121143655.png"
+    "Unidad 2"
   ]
 }
