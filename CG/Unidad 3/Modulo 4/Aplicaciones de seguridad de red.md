@@ -4,4 +4,8 @@ La mayoria de firewalls son similares en sus funciones basicas. Todos permiten t
 
 **Los NGFW tambien puden inspeccionar cargusa utilies de paquetes y cada sistema debe tener su firewall independiente de de la red**
 
-## Sistema de 
+## Sistema de detección de intrucciones (IDS - Intruder Detection System) 
+
+Es una aplicación que monitorea la actividad del sistema y alerta sobre psoibles intrusiones. Este alerta en función de la firma del trafico malicioso. 
+
+
