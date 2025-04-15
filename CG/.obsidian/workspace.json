@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 3/Modulo 4/Aplicaciones de seguridad de red.md",
+                "file": "Unidad 4/Modulo 4/1 1 1 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aplicaciones de seguridad de red"
+              "title": "1 1 1 1"
             }
           }
         ],
@@ -194,6 +194,22 @@
   },
   "active": "9cd642d23cb27789",
   "lastOpenFiles": [
+    "Unidad 4/Modulo 3/1 1 1.md",
+    "Unidad 4/Modulo 4/1 1 1 1.md",
+    "Unidad 4/Modulo 2/1 1.md",
+    "Unidad 4/Modulo 1/1.md",
+    "Unidad 4/Modulo 4",
+    "Unidad 4/Modulo 3",
+    "Unidad 3/Modulo 4/Seguridad de red en la nube.md",
+    "Unidad 4/Modulo 2",
+    "Unidad 4/Modulo 1",
+    "Unidad 4",
+    "Unidad 3/Modulo 4/Security hardening.md",
+    "Unidad 3/Modulo 4/Practicas de reforzamiento del SO.md",
+    "Unidad 3/Modulo 4/Network hardening.md",
+    "Unidad 3/Modulo 4/Ataques de fuerza bruta y OS hardening.md",
+    "Unidad 3/Modulo 4/Asegura la nube.md",
+    "Unidad 3/Modulo 4/Aplicaciones de seguridad de red.md",
     "Unidad 3/Modulo 3/Registros de tcpdump.md",
     "Unidad 3/Modulo 3/Pasted image 20250325113001.png",
     "Unidad 3/Modulo 3/Ataques de denegación de servicio (DoS).md",
@@ -212,17 +228,7 @@
     "Unidad 3/Modulo 1/Intro a la comunicación en la red.md",
     "Unidad 3/Modulo 1/Modelo OSI.md",
     "Unidad 3/Modulo 1/Herramientas de red.md",
-    "Unidad 3/Modulo 1/Direcciones IP y comunicacion de red.md",
-    "Unidad 3/Modulo 1/Componentes de la comunicación en la capa de red.md",
     "Unidad 3/Modulo 1/Suite_de_Protocolos_TCPIP.png",
-    "Unidad 3/Modulo 1/Redes.md",
-    "Unidad 3/Modulo 1/Modelo TCP-IP.md",
-    "Unidad 2/Modulo 2/Principios de seguridad de OWASP.md",
-    "Unidad 2/Modulo 2/Marcos.md",
-    "Unidad 2/Modulo 2/Marco NIST CSF.md",
-    "Unidad 2/Modulo 2/Controles.md",
-    "Unidad 2/Modulo 2/Como se vinculan los Marcos y Controles.md",
-    "Unidad 2/Modulo 2/Auditorías de seguridad.md",
     "Unidad 3/Modulo 1/Pasted image 20250312102650.png",
     "Unidad 3/Modulo 1/Pasted image 20250312102317.png",
     "Unidad 3/Modulo 1/Pasted image 20250226112643.png",
@@ -233,11 +239,6 @@
     "Unidad 3/Modulo 3",
     "Unidad 3/Modulo 2",
     "Unidad 3/Modulo 1",
-    "Unidad 3",
-    "Unidad 2/Modulo 4",
-    "Unidad 2/Modulo 3",
-    "Unidad 2/Modulo 2",
-    "Unidad 2/Modulo 1",
-    "Unidad 2"
+    "Unidad 3"
   ]
 }
