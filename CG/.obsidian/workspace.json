@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glosario/Glosario 3.1.md",
+                "file": "Unidad 4/Modulo 2/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Glosario 3.1"
-            }
-          },
-          {
-            "id": "5921c181a21c5c1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unidad 3/Modulo 3/Ataques de denegación de servicio (DoS).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ataques de denegación de servicio (DoS)"
+              "title": "Linux"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "1 1 1 1"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "65ed7e39d23a4e6b",
@@ -192,12 +178,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cd642d23cb27789",
+  "active": "75e049ddf2b3aabc",
   "lastOpenFiles": [
-    "Unidad 4/Modulo 3/1 1 1.md",
+    "Glosario/Glosario 4.2.md",
+    "Glosario/Glosario 4.1.md",
+    "Unidad 4/Modulo 2/Linux.md",
+    "Unidad 4/Modulo 1/Sistemas operativos.md",
+    "Glosario/Glosario 3.1.md",
+    "Unidad 3/Modulo 3/Ataques de denegación de servicio (DoS).md",
     "Unidad 4/Modulo 4/1 1 1 1.md",
-    "Unidad 4/Modulo 2/1 1.md",
-    "Unidad 4/Modulo 1/1.md",
+    "Unidad 4/Modulo 3/1 1 1.md",
     "Unidad 4/Modulo 4",
     "Unidad 4/Modulo 3",
     "Unidad 3/Modulo 4/Seguridad de red en la nube.md",
@@ -212,7 +202,6 @@
     "Unidad 3/Modulo 4/Aplicaciones de seguridad de red.md",
     "Unidad 3/Modulo 3/Registros de tcpdump.md",
     "Unidad 3/Modulo 3/Pasted image 20250325113001.png",
-    "Unidad 3/Modulo 3/Ataques de denegación de servicio (DoS).md",
     "Unidad 3/Modulo 3/Intrusiones en la red.md",
     "Unidad 3/Modulo 2/Servidor proxy.md",
     "Unidad 3/Modulo 2/Zona de seguridad.md",
@@ -222,12 +211,9 @@
     "Unidad 3/Modulo 2/Pasted image 20250317185713.png",
     "Unidad 3/Modulo 2/Firewalls y medidas de seguridad..md",
     "Glosario/Glosario 3.2.md",
-    "Glosario/Glosario 3.1.md",
     "Glosario/Glosario 2.md",
     "Pasted image 20250317185641.png",
     "Unidad 3/Modulo 1/Intro a la comunicación en la red.md",
-    "Unidad 3/Modulo 1/Modelo OSI.md",
-    "Unidad 3/Modulo 1/Herramientas de red.md",
     "Unidad 3/Modulo 1/Suite_de_Protocolos_TCPIP.png",
     "Unidad 3/Modulo 1/Pasted image 20250312102650.png",
     "Unidad 3/Modulo 1/Pasted image 20250312102317.png",
