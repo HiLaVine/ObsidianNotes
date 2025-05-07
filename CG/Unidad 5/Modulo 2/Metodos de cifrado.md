@@ -24,7 +24,16 @@ Es un marco de cifrado que protege el intercambio de datos en linea, es un siste
 
 El PKI es un proceso de dos pasos. Empieza con el intercambio de información cifrada. Esto implica cifrado asimetrico, simetrico o ambos. 
 
-- Cifrado Asimetrico: usa una clave publica y una privada para cifrar y descifrar datos.
-- Cifrado Simetrico: este permite gestionar claves de forma rapida y simple. Este solo usa una sola clave secreta para intercambiar infomacion.
+- Cifrado Asimetrico: usa una clave publica y una privada para cifrar y descifrar datos. Aquí solo la clave privada se comparte con los usuarios con acceso autorizado. 
+- Cifrado Simetrico: este permite gestionar claves de forma rapida y simple. Este solo usa una sola clave secreta para intercambiar informacion, debido a esto el remitente y el receptor deben conocer dicha clave para bloquear o desbloquear el cifrado.
+
+***Nota:*** La longitud de la clave es vital, debido a que mientras mas larga sea la clave mas segura es debido a que es menos suceptible a los ataques de fuerza bruta. Pero se tiene la desventaja que puede ser mas lento el timepo de procesado. 
 
 El PKI aborda la vulnerabilidad de compartir claves creando confianza con un sistema de certificados digitales entre computadoras y redes. Un certificado digital es un archivo que verifica la identidad de un titular de clave pública. La mayoría de la información en línea se intercambia usando certificado digital. Los usuarios, empresas y redes poseen uno y los intercambian al comunicar información en línea como una forma de señalar confianza. 
+
+### Generacion de claves
+
+Una forma de hacerlo es mediante el uso de OpenSSL, que es una herrramienta de linea de comandosde codigo abierto que se puede utilizar para generar claves publicas y privadas. 
+
+## No repudio y hashing
+
