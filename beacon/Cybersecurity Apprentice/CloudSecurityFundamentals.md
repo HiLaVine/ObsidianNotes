@@ -1,4 +1,4 @@
-## 1. Virtualization, Containers and Micro-VMs
+# 1. Virtualization, Containers and Micro-VMs
 
 ### Cloud Native Technology Properties
 
@@ -61,6 +61,49 @@ Aunque las organizaciones sofisticadas suelen utilizar tecnologías como las má
 Existen muchas diferencias entre los contendores y el hipervisor, pero la principal es que un hipervisor abstrae hardware y te permite correr sistemas operativos completos. Y y los contendores abstraen el sistema operativo para correr aplicaciones. 
 
 ## Micro-VMs
+
+Estas micro maquinas virtuales son extremadamente ligeras, ya que solo coneitneen el kernel de linux y las caracteristicas necesarias para correr en un contenedor. 
+
+# 2. Serverless Computing and Function as a Service
+
+Las arquitecturas serverless, tambien referidas como Function as a Service (FaaS), permite a las organizaciones construir y desplegar software y servicios sin mantener y provisionar un servirdor fisico o virtual. Las aplicaciones hechas con esta arquitectura son adecuadas para un gran rando de servicios y se pueden escalar mientras las tareas de la nube crecen. 
+
+### Beneficios de usar computo serverless y FaaS
+
+* Se centra en la funcionalidad basica del producto: Al no tener que usar parte de los recursos en tener la infraestructura y solo usar la nube, todo el trabajo se centra en el producto y sus caracteristicas. 
+* No hay responsabildad por los parches de seguridad: El proveedor del servicio en la nube es el encargado de llevar a cabo todas las tareas de mantenimiento y seguirdad.
+* Data Center seguro, redes y servidores: En esta arquitectura el proveedor es el responsable de la seguridad del data center, redes, servidores, SO, y sus configuraciones. 
+
+### Adoptar el modelo serverless
+
+* Reduccion de los gastos operativos
+* Aumento de la agilidad y productividad
+* Reduccion de costos
+
+## Paquetes de aplicacion y ambiente del serverless
+
+Aunque los contenedores bajo demanda reducen considerablemente la superficie expuesta a los usuarios finales y, por lo tanto, la complejidad asociada a su gestion, algunos usuarios prefieren una forma aún mas sencilla de impolementar sus aplicaciones. Serverless es una clase de tecnologias diseñadas para permitir a los desarrolladores proporcionar solo el código de su aplicación a un servicio, que luego instancia automaticamente el resto de la pila que hay debajo. 
+
+* App Package: En aplicaciones serverless, el desarrollador solo carga el app package, sin ningun contenedor o componentes del sistemas operativos. La plataforma tomas los paquetes y los transforma en una imagen, y la corre en un contendor. En esta arquitectura los usuarios realizan las conseciones en cuanto a compatibilidad y control a cambio de la experiencia de implementación y gestion mas sencilla y eficiente.
+
+* Ambiente serverless: Este incluye a los proveedores como amazon, azure, etc.
+
+### Problemas con la arquitectura serverless
+
+Esta arquitectura incluye nuevos problemas que tienen que ser considerados.
+
+* Incremento de la superficie de ataque
+* Mayor complejidad en la superficie de ataque.
+* Un complejidad mayor en el sistema.
+* Testeings indadecuados de seguridad.
+* No se tiene la capacidad de usar protecciones de seguridad tradicionales.
+
+### Herramientas comunes de escaneo.
+
+* Dynamic Application Security Testing (DAST)
+* Static Application Security Testing (SAST)
+* Interactive Application Security Testing (IAST)
+
 
 
 
