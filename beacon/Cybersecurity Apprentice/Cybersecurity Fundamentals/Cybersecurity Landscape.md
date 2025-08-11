@@ -181,4 +181,52 @@ flowchart TB
 ```
 ## SaaS, PaaS, and IaaS Use Cases
 
+Palo alto networks inicio una estrategia unificada con XDR. Y ahora la industria lo esta siguiendo. 
+
+
+* SaaS: Estos servicios en la nube estan hosteados por el CSP y estan disponibles para los consumidores con el modelo pay-as-you-go.
+* PaaS: este modelo es perfecto para los desarrolladores de software ya que es compatible con diferentes leguajes de programación, y se tiene control total para crear software modificado. La principal funcion de este es dar un fremework util para los desarrolladores.
+* IaaS: La principal funcion de este modelo es proveer de forma visual la informacion de los data ceters a los negocios. 
+
+## Hypergrowth of SaaS Applications
+
+Las organizaciones cada vez tiene una dependencia mayor en el uso de estas aplicaciones. Ya que muchas de de estas como Slack, Teams, Zoom, Jira and Confluence (todas aplicaciones SaaS). Ya que ayudan a la agilidad del negocio permitiendo una mejor comunicacion y mucho mas eficiente. 
+
+### Risk Associated with SaaS Application 
+
+Las aplicaciones SaaS pueden ser dañinas y crear nuevos riesgos si no son mitigados de forma segura. Teniendo los siguientes riesgos: 
+
+* Exposicion de informacion confidencial
+* Amenazas basadas en la nube
+* Aplicaiones SaaS peligrosas
+* Perdida de visibilidad y control
+
+## SaaS Application Risks
+
+El uso de aplicaciones SaaS es algo comun para los usuarios de una empresa. Lo que aumenta los riesgos de que informacion sensible sea robada, expuesta o que sea comprometida. 
+
+### Retos de seguridad en SaaS
+
+Debido a la naturaleza de las aplicaciones SaaS, mantener un control del sobre su uso es muy dificil. Esta falta de control representa un reto de ciberseguridad. 
+
+* Malicious Outsiders: La brecha mas comun para las redes en general, tambien aplica para las seguridad SaaS. Estas aplicaciones se transforman en un nuevo vector de ataque y distribución de malware usado por los agentes de amenaza. Y mucho de este malware apunta a estas aplicaciones SaaS.
+* Malicious Insiders: El menos comun, pero el riesgo mas real de las aplicaciones SaaS son los usuarios internos que de forma maliciosa comparten informacion con objetivos maliciosos. 
+* Accidental Data Exposure: Este riego es e bastante comun, ya que no depende de las intenciones de los usuarios, si no mas de los errores humanos. Ya que estas aplicaciones estan diseñadas para compartir de forma facil informacion y de forma equivoca esta informacion puede terminar en malas manos.
+* Accidental Share: este sucede cuando por una razon se comparte informacion a una persona o grupo incorrecto.
+* Promiscous Share: Esto sucede cuando se comparte publicamente la informaicon por medio de un usuario a otro que no deberia tener esta información.
+* Ghost share: este consiste en una cuenta que permanece activa para un empleado o proveedor que ya no trabaja en la empresa o que ya no deberia tener acceso. 
+
+## Estandares y regulaciones
+
+Las grandes organizaciones manejan una gran cantidad de informacion, y por esto son el principal objetivo para los cibercriminales. Y estos estandares y regulaciones son los que se encargan de proteger y asegurar la info. 
+
+### Payment Card Industry’s Data Security Standard 
+
+La Norma de Seguridad de Datos de la Industria de Tarjetas de Pago (PCI DSS) establece sus propias normas de ciberseguridad y mejores prácticas para las empresas y organizaciones que permiten compras con tarjetas de pago. Un número cada vez mayor de leyes y reglamentos internacionales, multinacionales, federales, regionales, estatales y locales también imponen numerosos requisitos de ciberseguridad y protección de datos a las empresas y organizaciones de todo el mundo.
+
+### European Union General Data Protection Regulations
+
+El Reglamento General de Protección de Datos (RGPD) de la Unión Europea (UE) se aplica a cualquier organización que realice negocios con ciudadanos de la UE. Las normas del RGPD suelen aplicar estándares más estrictos para la protección de los usuarios finales y los datos que los que se aplican a nivel nacional. Algunas empresas nacionales han adoptado una política de cumplimiento de las normas del RGPD, por si acaso sus operaciones pudieran interactuar con consumidores europeos o internacionales.
+
+
 
