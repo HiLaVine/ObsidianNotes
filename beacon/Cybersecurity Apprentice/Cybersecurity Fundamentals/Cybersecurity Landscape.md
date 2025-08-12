@@ -229,4 +229,36 @@ La Norma de Seguridad de Datos de la Industria de Tarjetas de Pago (PCI DSS) est
 El Reglamento General de Protección de Datos (RGPD) de la Unión Europea (UE) se aplica a cualquier organización que realice negocios con ciudadanos de la UE. Las normas del RGPD suelen aplicar estándares más estrictos para la protección de los usuarios finales y los datos que los que se aplican a nivel nacional. Algunas empresas nacionales han adoptado una política de cumplimiento de las normas del RGPD, por si acaso sus operaciones pudieran interactuar con consumidores europeos o internacionales.
 
 
+# 2. Attacker Profiles and Cyberattack Lifecycle
 
+## Attacker Profiles
+
+Identificar el origen de los ataques no siempre es facil, por eso mismo se han definido diferetes tipos o perfiles de atacantes suele tener una motivacion especifica para los ataques que se generan. Y con esto se generan nuevas defensas que pueden ser identificados por las motivaciones del atacante. 
+
+Estos perfiles son los siguientes: 
+
+* Cibercriminales: estos son el perfil de atacantes mas comun.
+* State-Affiliated Groups: Grupos criminales asociados a gobiernos motivados por razones politicas. 
+* Hacktivistas: Son grupos con razones politcas o causas sociales, que buscan ser reconocidos para ganar interes en su causa. 
+* Ciberterroristas: Estas asociados con el estado y estan centrados en causar daño y destruccion.
+* Script Kiddles: Son atacantes novatos que usan herramientas disponibles publicamente sin tener en cuenta la repercucion de sus acciones. 
+* Cybercirme vendors: Venden malware y exploits, aparte de business email compromise y ramsomware. Como CyberCrime as a Service (CCaaS) ofreciendo estos servicios en la darkweb.
+
+## Ciclo de un ciberataque
+
+Las estrategias modernas de un ciberataque an evolucionado a lo largo del tiempo, pasando de un ataque directo a un server o asset de alto valor, a uno con mucha mas paciencia, con diferentes pasos, que mezcla exploits, malware, sigilo, y evación en una red. 
+
+El proceso para un ciberataque y lograr infiltrar una red para obtener o robar información es la siguiente: 
+
+```mermaid
+flowchart LR
+    R[Reconnaissance<br/>🕵️‍♂️🏢] --> W[Weaponization<br/>🛠️💻] --> D[Delivery<br/>📧💻] --> E[Exploitation<br/>💻📦] --> I[Installation<br/>💻🐞] --> C[Command and Control<br/>📡💻] --> A[Act on Objective<br/>🎯]
+
+```
+
+Y se explican a continuacion: 
+
+|Fase| Ataque  | Defensa|
+|------|---------|-------|
+|Reconnaissance | Como criminales normales, los atacantes planifican meticulosamente sus planes. Buscando, identificando y seleccionando objetivos. Para esto usan herramientas que escanean las vulnerabilidaes de la red, servicios, y aplicaiones que pueden explotar, como analizadores de red, escaners de vulnerabilidades de red, passwords crakers, escaneo de puertos, escaneo de vulnerabilidades web o wifi. | Romper el ciclo de vida en esta face empieza con un proactivo y efectivo entrenamiento que se centra en los temas de ingenieria social, y las politicas de seguridad de la empresa. Otras medidas es monitorear continuamente el trafico de la redpara detectar  prevenir cualquier tipo de escaneo no autorizado.|
+| Weaponization | Los atacantes determinan que metodos van a usar par comprometer un objetivo.  | Para romper el ciclo de vida en esta fase es un buen reto, porque esto sucede en la red del atacante, asun asi el analisis correcto puede proporcionar informacion importante sobre la amenaza que permite una proteccion eficaz contra los ataques de zero-day cuando se entrega. | 
