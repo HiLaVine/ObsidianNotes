@@ -262,3 +262,31 @@ Y se explican a continuacion:
 |------|---------|-------|
 |Reconnaissance | Como criminales normales, los atacantes planifican meticulosamente sus planes. Buscando, identificando y seleccionando objetivos. Para esto usan herramientas que escanean las vulnerabilidaes de la red, servicios, y aplicaiones que pueden explotar, como analizadores de red, escaners de vulnerabilidades de red, passwords crakers, escaneo de puertos, escaneo de vulnerabilidades web o wifi. | Romper el ciclo de vida en esta face empieza con un proactivo y efectivo entrenamiento que se centra en los temas de ingenieria social, y las politicas de seguridad de la empresa. Otras medidas es monitorear continuamente el trafico de la redpara detectar  prevenir cualquier tipo de escaneo no autorizado.|
 | Weaponization | Los atacantes determinan que metodos van a usar par comprometer un objetivo.  | Para romper el ciclo de vida en esta fase es un buen reto, porque esto sucede en la red del atacante, asun asi el analisis correcto puede proporcionar informacion importante sobre la amenaza que permite una proteccion eficaz contra los ataques de zero-day cuando se entrega. | 
+| Delivery | El siguente paso de los atacantes es intentar enviar el malware alos objetivos, ya sea a traves del correo, mensajeria, descargas o intercambio de archivos infectados.  | Romper el ciclo de vida en esta face requiere la visibilidad del trafico de la red, para bloquear cualquier acceso malicioso o sitios web, aplicaciones y direcciones ip maliciosas. Así preveniendo malware y exploits conocidos o desconocidos |
+| Exploitation | Depues de que el malware haya sido entregado al objetivo, necesita ser disparado, esto se logra cuando el usuario instala el exploit en su pc, haciendo click en un link malicioso o abriendo un archivo malicioso de un correo. Tambien el atacante puede activar el exploit contra un server vulnerable o una red. | En esta fase la forma de romper el ciclo empieza con un entrenamiento efectivo y a tiempo de los usuarios finales, para prevenir cualquier tipo de acceso malicioso. Otra contramedida de seguridad es mantener al dia los parches de seguridad y vulnerabilidades, deteccion de malware, inteligencia de amenazas, monitoreo de la red, gestionar permisos, y privilegios.  |
+| Installation | Una vez se hizo la explotacion, el atacante escala privilegios en el equipo comprometido, estableciendo acceso por shell o instalando otro tipo de malware. Y ahora puede moverse lateralmente a lo largo de la red, ejecutando codigo malicioso, identificando otros objetivos y comprometiendo equipos adicionales. | Para romper el ciclo aqui, se debe buscar limitar o resgringir el movimiento lateral de los atacantes en la red usando segmentacion de red y un modelo Zero Trust que monitoree e inspeccione el trafico entre zonas y segmentos y tenga el control de las aplicaciones que se ejecutan en la zona. |
+| Command and Control | Los atacantes establecen canales de comunicación cifrados con los servidores de command and control (C2) a traves de internet para poder modificarlos e identificar nuevos objetivos dentro de la red de la victima, o para evadir nuevas medidas de seguridad. Debido a la importancia de la comunicacion para los atacantes, el trafico C2 debe ser resistente y sigiloso para que tenga exito y se oculta mediante herramientas como el cifrado, elusion, evacion de puertos, fast flux (DNS dinamico) y el tunel DNS.  | Romper el ciberataque en esta fase requiere estas fases: Inspeccionar el trafico de la red, Bloquear las comunicaciones con C2, Bloquear todas las comunicaciones con Ip's y URL's maliciosos conocidos, Bloquear tecnicas maliciosas que usen metodos de evasion de puertos, Prevenir el uso de anonymizers o proxies en la red, Monitorear DNS por comportamientos maliciosos y repeler DNS sinkholing o DNS poisoning, Rediregir las comunicaciones maliciosas entrantes a honeypots, para identificar o bloquear endpoints comprometidos y analizar el trafico |
+| Act on Objetive | Los atacantes tiene muchos objetivos, como robar informacion, destruir o modificar sistemas criticos, redes y datos y denegacion de servicios (DoS). Esta etapa aparte de ser la final, tambien es el inicio ya que el atacante puede estar preparando otro ataque. | Monitorear y entrenar son las defensas primarias en esta fase. |
+
+## MITRE ATT&CK Framework
+
+El MITRE Adversarial Tactics, Techniques, and Common Knowlege (ATT&CK) framework es una matriz completa de tácticas y técnicas diseñadas para cazadores de amenazas, defensores y equipos rojos con el fin de ayudar a clasificar los ataques, identificar su atribucion y objetivo, y evaluar el riesgo de una organizacion. Este marco es utilizado para identificar brechas de seguridad y priorizar las medidas de mitigación en funcion del riesgo. 
+
+### Sub-Techniques
+
+Sub tecnicas son una forma mas especifica de descripcion del comportamiento de las amenazas para obtner su logro. Estos describen el comportamiento desde el nivel mas bajo de cada tecnica. 
+
+## Common Vulnerabilities and Exposures
+
+Las Common Vulnerabilities and Exposures (CVE) es un sistema para publicar vulnerabilidades conocidas. El objetivo de este sistema es hacer mas facil el acceso a que vulnerabilidades existen, incluyendo software de vendors, tool verndors, practicantes de la seguridad y usuarios finales.
+
+El XDR esta cabron jajaja
+
+## Common Vulnerability Scoring System
+
+El sistema de score de vulnerabilidades (CVSS - Common Vulnerability Scoring System) ofrece un metodo por para controlar las vulnerabilidades con sus caracteristicas y genera un score numerico que refleje la severidad de las mismas. 
+
+
+
+
+
