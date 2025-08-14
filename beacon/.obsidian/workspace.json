@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "fce7701684984e7c",
+    "id": "70e0a7c2c2b57dda",
     "type": "split",
     "children": [
       {
-        "id": "2ce516246ecd23c2",
+        "id": "f689f49a5be6fedd",
         "type": "tabs",
         "children": [
           {
-            "id": "4359fd4f80c55163",
+            "id": "61cca206e4d9f5f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cybersecurity Apprentice/Cybersecurity Fundamentals/Cyber Threats.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Cyber Threats"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7b88648eab9a3552",
+    "id": "e3721b9f5940a539",
     "type": "split",
     "children": [
       {
-        "id": "32dabc18e5b2dfde",
+        "id": "b8676ebc5a7ca61b",
         "type": "tabs",
         "children": [
           {
-            "id": "9cd642d23cb27789",
+            "id": "1f0d70b2d00023a8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "32a8b6c381e94882",
+            "id": "030b917dd865ca3a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "7ea41198bd43a7ae",
+            "id": "6df59413a2a1bd80",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "65ed7e39d23a4e6b",
+    "id": "7f890d00c43fc6ab",
     "type": "split",
     "children": [
       {
-        "id": "77c78571b45ef6ca",
+        "id": "27d92e5f19192209",
         "type": "tabs",
         "children": [
           {
-            "id": "12bca30f5df5da9f",
+            "id": "4ea0c40a690b2560",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course 1/Introducción a la ciberseguridad.md",
+                "file": "Cybersecurity Apprentice/Cybersecurity Fundamentals/Cyber Threats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,46 +105,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introducción a la ciberseguridad"
+              "title": "Backlinks for Cyber Threats"
             }
           },
           {
-            "id": "2da20787bdc9bf71",
+            "id": "589a68420d1c2a31",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course 1/Introducción a la ciberseguridad.md",
+                "file": "Cybersecurity Apprentice/Cybersecurity Fundamentals/Cyber Threats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introducción a la ciberseguridad"
+              "title": "Outgoing links from Cyber Threats"
             }
           },
           {
-            "id": "5548e8f0631b316b",
+            "id": "e9986a71c97299a5",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "89830770294b5038",
+            "id": "743efb6b0f033b5b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course 1/Introducción a la ciberseguridad.md"
+                "file": "Cybersecurity Apprentice/Cybersecurity Fundamentals/Cyber Threats.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introducción a la ciberseguridad"
+              "title": "Outline of Cyber Threats"
             }
           }
         ]
@@ -159,53 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4359fd4f80c55163",
+  "active": "61cca206e4d9f5f3",
   "lastOpenFiles": [
-    "Unidad 4/Modulo 2/Linux.md",
-    "Glosario/Glosario 4.2.md",
-    "Glosario/Glosario 4.1.md",
-    "Unidad 4/Modulo 1/Sistemas operativos.md",
-    "Glosario/Glosario 3.1.md",
-    "Unidad 3/Modulo 3/Ataques de denegación de servicio (DoS).md",
-    "Unidad 4/Modulo 4/1 1 1 1.md",
-    "Unidad 4/Modulo 3/1 1 1.md",
-    "Unidad 4/Modulo 4",
-    "Unidad 4/Modulo 3",
-    "Unidad 3/Modulo 4/Seguridad de red en la nube.md",
-    "Unidad 4/Modulo 2",
-    "Unidad 4/Modulo 1",
-    "Unidad 4",
-    "Unidad 3/Modulo 4/Security hardening.md",
-    "Unidad 3/Modulo 4/Practicas de reforzamiento del SO.md",
-    "Unidad 3/Modulo 4/Network hardening.md",
-    "Unidad 3/Modulo 4/Ataques de fuerza bruta y OS hardening.md",
-    "Unidad 3/Modulo 4/Asegura la nube.md",
-    "Unidad 3/Modulo 4/Aplicaciones de seguridad de red.md",
-    "Unidad 3/Modulo 3/Registros de tcpdump.md",
-    "Unidad 3/Modulo 3/Pasted image 20250325113001.png",
-    "Unidad 3/Modulo 3/Intrusiones en la red.md",
-    "Unidad 3/Modulo 2/Servidor proxy.md",
-    "Unidad 3/Modulo 2/Zona de seguridad.md",
-    "Unidad 3/Modulo 2/VPN (Virtual Private Networks).md",
-    "Unidad 3/Modulo 2/Protocolos de red adicionales.md",
-    "Unidad 3/Modulo 2/Protocolos de red.md",
-    "Unidad 3/Modulo 2/Pasted image 20250317185713.png",
-    "Unidad 3/Modulo 2/Firewalls y medidas de seguridad..md",
-    "Glosario/Glosario 3.2.md",
-    "Glosario/Glosario 2.md",
-    "Pasted image 20250317185641.png",
-    "Unidad 3/Modulo 1/Intro a la comunicación en la red.md",
-    "Unidad 3/Modulo 1/Suite_de_Protocolos_TCPIP.png",
-    "Unidad 3/Modulo 1/Pasted image 20250312102650.png",
-    "Unidad 3/Modulo 1/Pasted image 20250312102317.png",
-    "Unidad 3/Modulo 1/Pasted image 20250226112643.png",
-    "Unidad 3/Modulo 1/Pasted image 20250219121731.png",
-    "Unidad 3/Modulo 1/Pasted image 20250219120415.png",
-    "Unidad 3/Modulo 1/Pasted image 20250226112656.png",
-    "Unidad 3/Modulo 4",
-    "Unidad 3/Modulo 3",
-    "Unidad 3/Modulo 2",
-    "Unidad 3/Modulo 1",
-    "Unidad 3"
+    "Cybersecurity Apprentice/Cybersecurity Fundamentals/Cybersecurity Landscape.md",
+    "Cybersecurity Apprentice/Cybersecurity Fundamentals/Cyber Threats.md"
   ]
 }

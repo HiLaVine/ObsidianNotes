@@ -270,21 +270,21 @@ Y se explican a continuacion:
 
 ## MITRE ATT&CK Framework
 
-El MITRE Adversarial Tactics, Techniques, and Common Knowlege (ATT&CK) framework es una matriz completa de tácticas y técnicas diseñadas para cazadores de amenazas, defensores y equipos rojos con el fin de ayudar a clasificar los ataques, identificar su atribucion y objetivo, y evaluar el riesgo de una organizacion. Este marco es utilizado para identificar brechas de seguridad y priorizar las medidas de mitigación en funcion del riesgo. 
+El MITRE Adversarial Tactics, Techniques, and Common Knowlege (ATT&CK) framework es una matriz completa de tácticas y técnicas diseñadas para cazadores de amenazas, defensores y equipos rojos con el fin de ayudar a clasificar los ataques, identificar su atribución y objetivo, y evaluar el riesgo de una organizacion. Este marco es utilizado para identificar brechas de seguridad y priorizar las medidas de mitigación en función del riesgo. 
 
 ### Sub-Techniques
 
-Sub tecnicas son una forma mas especifica de descripcion del comportamiento de las amenazas para obtner su logro. Estos describen el comportamiento desde el nivel mas bajo de cada tecnica. 
+Sub técnicas son una forma mas especifica de descripción del comportamiento de las amenazas para obtener su logro. Estos describen el comportamiento desde el nivel mas bajo de cada técnica. 
 
 ## Common Vulnerabilities and Exposures
 
-Las Common Vulnerabilities and Exposures (CVE) es un sistema para publicar vulnerabilidades conocidas. El objetivo de este sistema es hacer mas facil el acceso a que vulnerabilidades existen, incluyendo software de vendors, tool verndors, practicantes de la seguridad y usuarios finales.
+Las Common Vulnerabilities and Exposures (CVE) es un sistema para publicar vulnerabilidades conocidas. El objetivo de este sistema es hacer mas fácil el acceso a que vulnerabilidades existen, incluyendo software de vendors, tool verndors, practicantes de la seguridad y usuarios finales.
 
-El XDR esta cabron jajaja
+**El XDR esta cabron jajaja**
 
 ## Common Vulnerability Scoring System
 
-El sistema de score de vulnerabilidades (CVSS - Common Vulnerability Scoring System) ofrece un metodo por para controlar las vulnerabilidades con sus caracteristicas y genera un score numerico que refleje la severidad de las mismas. 
+El sistema de score de vulnerabilidades (CVSS - Common Vulnerability Scoring System) ofrece un método por para controlar las vulnerabilidades con sus características y genera un score numérico que refleje la severidad de las mismas. 
 
 
 
