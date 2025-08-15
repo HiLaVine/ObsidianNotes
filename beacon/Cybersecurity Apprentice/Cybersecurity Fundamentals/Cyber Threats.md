@@ -47,3 +47,32 @@ Y esto es un cambio fundamental contra los tipos de malware anteriores, que sol�
 
 # 2. Ransomware, Vulnerabilities, and Exploits
 
+## Ramsomware Types
+
+El ransomware criptografico es el mas comun y exitoso de los tipos de ransomware que existen, pero no es el unico. Recordando que el ransomware no solo es una familia de malware, tambien es un modelo de negocio criminal que es usado para bloquear algo de valor por un rescate (Ransom). 
+
+### Introduccion avanzada al Ransomware
+
+Usar algo de valor para obtener dinero de un rescate no es algo nuevo, pero si muy lucrativo, y mas el ransomware. Ya que no tiene solo como objetivo los grandes negocios, si no tambien a personas individuales. Por lo tanto es facil generar una remuneracion y es mas rapido que otros cibercrimenes. Tambien es importante señalar que despues del pago es incierto si el atacante desencripte la informacion, y que seguramente esta ya haya sido vendida en la dark web por un poco mas dinero. 
+
+### Ataques de ransomware en organizaciones
+
+El malware desplegado en los ataques de ransomware criptografico no es precisamente sofisticado, pero ha sido provado que es realmente efectivo tanto en las ganacias del atacante, si no tambien en las consecuencias que deja en las organizaciones de continuar con sus operaicones normales. Y debido a que existen tantos objetivos potenciales, tanto chicos como grandes, ha promovido esto a tal punto que se lanzan nuevas campañas de ransomware todo el tiempo. 
+
+### El ataque se hace en 5 etapas
+
+Si el atacante falla en cualquiera de estos pasos, se considera que fue un fracaso, y para que un ataque sea exitoso, se deben seguir los siguientes 5 pasos: 
+
+1. Compromise and Control a System or Device: este empieza normalmente usando ingenieria social para engañar a los usuarios, esto permite a los atacantes instalar malware en el sistema y tomar el control. 
+2. Prevent Access to the System: Los atacantes deben idenrificar y encriptar cada archivo que parezca importante o denegar el acceso al equipo. 
+3. Notify Victim: Atacante habla con la victima y establece los parametros del rescate.  
+4. Accept Ransom Payment: El atacantes recive el pago evadiendo las leyes, usadon criptomonedas. 
+5. Return Full Access: Los atacantes regresan el acceso a los dispositivos, y si no restauran, el plan pierde eficacia, debido a que la victima da todo por perdido y no paga.
+
+## Vulnerabilities and Exploits
+
+Los exploits y las vulnerabilidades puedes ser explotados para forzar a los softwares a actuar de formas para las que no fue planeado. Como recopilar información sobre las medidas de seguridad usadas actualmente. 
+
+### Vulnerabilities
+
+Estas son rutinariamente descubiertas en el software en un ritmo alarmante. Estas son mas comunes en software que acaba de ser terminado y desplegado, tambien pueden ser creadas inadvertidamente o 
