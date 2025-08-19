@@ -75,4 +75,38 @@ Los exploits y las vulnerabilidades puedes ser explotados para forzar a los soft
 
 ### Vulnerabilities
 
-Estas son rutinariamente descubiertas en el software en un ritmo alarmante. Estas son mas comunes en software que acaba de ser terminado y desplegado, tambien pueden ser creadas inadvertidamente o 
+Estas son rutinariamente descubiertas en el software en un ritmo alarmante. Estas son mas comunes en software que acaba de ser terminado y desplegado, tambien pueden ser creadas inadvertidamente o reintroducidas cuando hay actualizaciones de seguridad. 
+
+### Exploit
+
+Un exploit es un tipo de malware que toma ventaja de una vulnerabilidad en un endpoint o servidor infectado. Estos son creados por el atacante con el objetivo de atacar a las vulnerabilidades caunsando que el software ejecute funciones o codigo en nombre del atacante. 
+
+### Parchear vulnerabilidades
+
+Los parches de seguridad son desarrollados por los software vendors lo mas rapido posible despues de que una vulnerabilidad sea descubierta en el software. 
+
+1. Discovery: el atacante aprende sobre la vulnerabilidad y empienza el ataque antes de que el vendor descubra dicha vulnerabilidad o desarrolle un parche de seguridad.
+2. Desarrollo del parche: el tiempo que tarda entre que se descubre una vulnerabilidad y se desarrolla y publica el parche se le conoce como amenaza Zero-day.
+3. Test y despliegue del parche: Pueden pasar meses o años antes de que una vulnerabilidad sea anunciada al publico. Una vez que se dispone de un parche de seguridad, las organizaciones necesitan tiempo para probarlo adecuadamente e implementarlo en los sistemas afectados y durante este tiempo los sistemas que ejecutan el software son vulnerables.
+
+### Como se ejecutan los exploits
+
+Los exploits pueden estar incrustrados en archivos de datos aparentemente inofensivos, o pueden dirigirse a servicios de red vulnerables. Estos son peligrosos porque suelen estar empaquetados en archivos legitimos que no activan el software antimalware y por lo tanto no se detectan facilmente. 
+
+1. Creación: La creación de un archivo de datos (exploit) es un proceso de dos pasos. El primer paso es incrustar un pequeño fragmento de código malicioso dentro del archivo de datos. Sin embargo, el atacante aun debe engañar a la aplicacion para que ejecute el codigo malicioso. Por lo tanto, la segunda parte, suele implicar técnicas de corrupción de memoria que permiten insertar codigo del atacante en el flujo de ejecucion del software.
+2. Accion: Una vez creado el archivo de datos del exploit, una aplicacion legitima como un visor de documentos o un navegador web, realizara acciones en nombre del atacante, como establecer comunicacion y proporcionar la capacidad de cargar malware adicional en el punto final de destino. Dado que la aplicacion se explota es una aplicacion legitima, los antivirus tradicionales basados en firmas y el software de listas blancas no tienen practicamente ninguna defensa contra estos ataques.
+3. Tecnicas: Aunque existen miles de exploits, todos ellos se basan en un pequeño conjunto de técnicas básicas. Algunos ataques pueden implicar mas pasos y otros menos, pero normalmente se deben utilizar entre tres y cinco tecnicas basicas para explotar una aplicacion. Independientemente del ataque o de su complejidad, para que el ataque tenga exito, el atacante debe ejecutar una serie de estas tecnicas basicas de explotacion en secuencia.
+4. Heap Spray: Esta es una tecnica usada para facilitar la ejcucion de codigo arbitrariamente con la inyeccion a ciertas secuencias de bytes en la memoria o el proceso objetivo.
+
+### Linea de tiempo para eliminar una vulnerabilidad
+
+Las vulnerabilidades pueden ser explotadas desde que el software es desarrollado hasta que se parchea. 
+
+1. Desarrollo de software
+2. Descubrimiento de vulnerabilidades
+3. Inicio de los exploits
+4. Anuncio publico de las vulnerabilidades
+5. Publicacion del parche
+6. Desarrollo del parche
+7.  Protegido por parche del proveedor
+
