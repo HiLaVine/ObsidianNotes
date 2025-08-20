@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9134f09bf0188f91",
+            "id": "a2c11ed31e53ca90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introducción a las redes/Dispositivos de red y sus conexiones.md",
+                "file": "Modelo de capas/Suite de protocolos y Modelos de red.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dispositivos de red y sus conexiones"
+              "title": "Suite de protocolos y Modelos de red"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7bbfc2875084491b",
@@ -160,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,11 +170,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9134f09bf0188f91",
+  "active": "a2c11ed31e53ca90",
   "lastOpenFiles": [
-    "Redes convergentes y Arquitectura de Red.md",
+    "Pasted image 20250819200930.png",
+    "Pasted image 20250819195704.png",
+    "Modelo de capas/Tipos de red.md",
+    "Modelo de capas/Transmisión de datos y elemento de la red.md",
+    "Modelo de capas/Suite de protocolos y Modelos de red.md",
+    "Conceptos Básicos.md",
     "Introducción a las redes/Redes convergentes y Arquitectura de Red.md",
+    "Modelo de capas",
     "Introducción a las redes/Dispositivos de red y sus conexiones.md",
+    "Redes convergentes y Arquitectura de Red.md",
     "Introducción a las redes",
     "Welcome.md"
   ]
