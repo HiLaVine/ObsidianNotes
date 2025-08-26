@@ -58,9 +58,51 @@ Ademas de que EDR y XDR pueden dar información exacta como:
 * ¿Que tipo de ataque fue?
 * ¿Que o quien fue afectado (sistemas u organizaciones)?
 
+## Endpoint Security
 
+Endpoint Security, describe las herramientas, productos, y tecnicas diseñadas para proteger a los equipos de los usuarios y que que fortalece la seguridad de accesos individuales a la red y datos sensibles de una organizacion. 
 
+### ¿Por qué es importante?
 
+Debido al creciente uso de dispositivos moviles y su uso por parte de los trabajadores, el numero de vulnerabilidades en las redes de las organizaciones crece.  Por lo que las organizaciones deben fortalecer estos puntos debiles para protegerse de los ciberataques. 
 
+### Endpoint proteccion Platform
+
+El termino "Endpoint Security" es casi un sinonimo de "Endpoint Proteccion Platform" o EPP. Esta se coloca en los endpoints y los protege de los ciberataques basado en combatir el malware mas avanzado. 
+
+* EPP: usa muchas tecnicas de prevencion, como el analisis de estadisticas para evaluar el malware potencial basado en la inspeccion de archivos, heuristicas, y comportamiento para evaluar un archivo malicioso basado en sus funciones.
+* EDR: Nace como apoyo para las herramientas EPP, y permiten a los equipos de seguridad investigar y mitigar las amenazas que sus herramientas pasan por alto. 
+
+### Capacidades clave de los EPP
+
+Los mejores EPP ofrecen una gestion en la nube, para poder mantener el monitoreo constante y los problemas se resuelvan automaticamente sin importar la red a la que el endpoint este conectado. 
+
+Y sus capacidades son: 
+
+* Bloquear malware conocido y desconocido.
+* Deteccion precisa.
+* Analisis de comportamiento.
+* Gestion efectiva y facil.
+
+## Endpoint Security Strategies
+
+1. Sistemas de seguridad modernos para endpoints basados en comportamiento y no en firmas.
+2. Empresas de seguridad de endpoints que combinen EPP y EDR para mejorar el servicio.
+3. Seguridad integral de endpoints ofreciendo soluciones de seguridad poderosas y completas como XDR.
+4. Seguridad de endpoints avanzada que previene el malware conocido y desconocido y que ayuda a los teams de seguridad.
+
+## User and Entity Behavior Analytics
+
+Conocido como UEBA o UBA es un tipo de solucion de ciberseguridad que detecta amenazas medienta la identificacion de actividades que se desvian de una linea normal. 
+
+UEBA monitorea y detecta actividad inusual en las redes de computadoras, incluyendo accesos no autorizados o comportamiento sospechoso. 
+
+### Diferencias entre UEBA y NTA 
+
+* Log-Centric solutions: Las soluciones UEBA suelen estar integradas en productos de seguridad tradicionales, como los agentes de seguridad de acceso a la nube y los sistemas de administración y gobernanza de identidades. Las soluciones UEBA utilizan datos históricos y en tiempo real, así como el aprendizaje automático, para desarrollar una línea de base de actividad estándar de los usuarios de la red y otras entidades (por ejemplo, hosts, aplicaciones, repositorios de datos, tráfico de red).
+
+Una vez establecida esta referencia, las soluciones UEBA aplican métodos analíticos (por ejemplo, estadísticas simples, comparación de patrones, reglas que aprovechan las firmas) para buscar anomalías en los patrones de tráfico que indiquen actividades potencialmente sospechosas o maliciosas. Para que las soluciones UEBA realicen análisis de comportamiento de forma eficaz, la empresa debe disponer primero de un conjunto de datos sólido e integrado para las herramientas de aprendizaje automático.
+
+* Network-Centric Solutions: Las soluciones NTA utilizan aprendizaje automático, análisis avanzados y detección basada en reglas para supervisar y analizar todos los registros de tráfico y flujo en las redes empresariales. Las soluciones NTA utilizan esta información para identificar posibles ataques, abusos internos, actividades sospechosas y malware. Estas soluciones supervisan y analizan todo el tráfico norte-sur a través del perímetro de la empresa y todas las comunicaciones este-oeste desde los sensores de red.
 
 
