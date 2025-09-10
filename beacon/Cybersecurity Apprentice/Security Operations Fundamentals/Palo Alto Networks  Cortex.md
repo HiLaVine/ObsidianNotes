@@ -98,3 +98,30 @@ Las principales características y capacidades de Cortex XSOAR TIM incluyen:
 * Most comprehensive marketplace
 
 # 5. Cortex XSIAM
+
+El XSIAM (Extended Security Intelligence and Automation Management) es una categoria por si misma, ya que comparte por partes iguales el EDR, SOAR, ASM e incluso es capaz de reemplazar a SIEMs de generaciones pasadas. 
+
+Y como se menciono tiene 4 tecnologias principales:
+
+* SOAR (Security Orchestration, Automation and Response): SOAR es una tecnología diseñada para centralizar y automatizar tareas rutinarias, así como para enriquecer el trabajo de los analistas de seguridad mediante la realización de tareas mundanas tan pronto como se gestiona la alerta. Al incorporar alertas de sistemas de terceros y enriquecerlas con los datos de cada uno, Cortex XSOAR mejora considerablemente la calidad de las investigaciones. Sus guías y capacidades de automatización están integradas en Cortex XSIAM.
+* EDR (Endpoint Detect and Response)
+* ASM (Attack Surface Management): La tecnología ASM está diseñada para utilizar la perspectiva del atacante en el descubrimiento, la gestión, la identificación y la supervisión del perímetro de una organización expuesto a Internet. A diferencia de los productos anteriores de gestión de vulnerabilidades o activos, los productos ASM realizan esta labor desde el «exterior» de la organización, lo que proporciona una visión eficaz de los activos del perímetro que coincide con la del propio adversario. Las reglas de supervisión de la superficie de ataque de Cortex Xpanse están integradas en Cortex XSIAM.
+* SIEM (Security Information and Event Management)
+
+El XSIAM es una herramienta que no solo combina el EDR, ASM y SOAR. Tambien al integrar funcionalidades de SIEM, puede hacer log retention, normalization y analisis en tiempo real alertando basado en las reglas definidas. 
+
+Y al ser un producto que trabaja en la nube y no es necesario gestionar ni hardware ni software. Haciendo todo mas sencillo y aumentando el rendimiento de los equipos de seguridad. 
+
+# Knowledge Check
+
+Which Cortex technology combines multiple methods of prevention at critical phases within the attack lifecycle to halt the execution of malicious programs and stop the exploitation of legitimate applications, regardless of operating system?
+R: XDR
+
+What is the purpose of using decoy files in the Cortex XDR agent's behavior-based ransomware protection module?
+R: To attract ransomware and analyze its behavior
+
+Which three areas of focus can Cortex XSOAR help SecOps teams combat security challenges? (Choose three.)
+R: Workflow automation, Ticketing, Collaboration.
+
+Which security technology is known for storing, ingesting and normalizing logs and running rules against them?
+R: SIEM
