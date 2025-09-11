@@ -46,9 +46,46 @@ El SIEM fue desarrollado como una solucion al problema de tener muchos logs de m
 
 Las operaciones de seguridad involucran el desarrollo estrategico y coordinado de tecnologias, personal y procesos para de forma proactiva identificar, mitigar y responder a las amenazas de seguridad protegiendo los sistemas y assets de las organizaciones. 
 
-## SOC
+### SOC
 
 El soc es un equipo formado por profesionales dedicados al monitoreo y analisis de actividad en redes, servers, endpoints, DB, aplicaciones, websites, y otros sistemas que se conectan de forma local o remota. 
 
 El objetivo de estos es detectar, analizar y responder a los incidentes de seguridad usando una combiancion de tecnologias y procesos diseñados. 
+
+### Los seis pilares de las operaciones de seguridad
+
+SO pueden ser complejas, pero partiendolas en elementos podemos de forma mas sencilla ver cada parte y hacia donde se extiende. Estos elementos se usan para ver como evolucionan las SO y poder proveer una mejor prevencion y remediacion. 
+
+Estos elementos son los 6 pilares, que establecen los rangos de las capacidades que el negocio requiere del SOC para llevar a cabo sus tareas. 
+
+Estos pilares son: 
+
+* Processes: instrucciones paso por paso y las funciones que se llevan a cabo para seguir las politicas de seguridad. Estos procesos se aseguran de que los pasos no se pierdan y se sigan dichas politicas.
+* Affiliates: define a los individuos, equipos u organizaciones envueltas en la respuesta a incidentes del SOC. 
+* People: El personal elegido para formar parte del las operaciones de seguridad y la orquetacion de la seguridad. 
+* Business: Considerar cada factor importante del negocio para poder implementar las medidades y aplicaciones de seguridad correctas. 
+* Visibility: No puedes proteger lo que no ves, por lo que es necesario saber todo el contexto. 
+* Technology: La tecnologia amplifica las capacidades humanas haciendo todo mas seguro, efectivo y eficiente. 
+
+### Main Functions of Security Operations
+
+La principal funcion de las SO es de forma proactiva detectar, responder y mitigar las amenazas de seguridad para proteger los sistemas y assets de las organizaciones. 
+
+* Indentificar
+* Investigar
+* Mitigar
+* Mejoras continuas
+
+## Security Orchestration
+
+La Security Orchestration es la integracion y coordinacion de forma automatizada de los procesos de seguridad,herramientas y tecnologias para responder a los incidentes, mejorar la deteccion de amenazas y mejorar la reciliencia de seguridad. 
+
+Esta logra conectar tecnologias de seguridad dispares a traves de flujos de trabajo estandarizados y automaticos que mejora toda la efectividad de la operacion. 
+
+## Team Structure
+
+* Tier One Analyst: Estos analistas se centran en priorizar y asignar alertas basándose en criterios como el usuario final afectado y la organización afectada. No realizan análisis profundos de las alertas.
+* Tier Two Analyst: Estos analistas llevan a cabo investigaciones exhaustivas de cada alerta, determinando la causa, los componentes afectados y las modificaciones necesarias para evitar incidentes futuros. También pueden responder a incidentes que involucren y se escalen a analistas de TI o de nivel tres.
+* Tier Three Analyst: Presentes en las grandes empresas, estos analistas cuentan con una amplia experiencia en análisis forense de malware e ingeniería social, y se encargan de incidentes de seguridad más complejos y graves.
+
 
