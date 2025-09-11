@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity Apprentice/Cybersecurity Fundamentals/Cyber Threats.md",
+                "file": "Cybersecurity Apprentice/Understanding Security Operations Foundational/Introduction to Security Operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyber Threats"
+              "title": "Introduction to Security Operations"
             }
           }
         ]
@@ -161,6 +161,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -171,7 +172,9 @@
   },
   "active": "61cca206e4d9f5f3",
   "lastOpenFiles": [
-    "Cybersecurity Apprentice/Cybersecurity Fundamentals/Cybersecurity Landscape.md",
-    "Cybersecurity Apprentice/Cybersecurity Fundamentals/Cyber Threats.md"
+    "Cybersecurity Apprentice/Security Operations Fundamentals/Threat Prevention and Intelligence.md",
+    "Cybersecurity Apprentice/Understanding Security Operations Foundational/Introduction to Security Operations.md",
+    "Cybersecurity Apprentice/Cybersecurity Fundamentals/Cyber Threats.md",
+    "Cybersecurity Apprentice/Cybersecurity Fundamentals/Cybersecurity Landscape.md"
   ]
 }

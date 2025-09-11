@@ -1,6 +1,6 @@
 # Threat Intelligence
 
-## ¿Qué es un la inteligencia de amenazas nativa?
+## ¿Qué es  la inteligencia de amenazas nativa?
 
 La Native Threat Intelligence, potenciada por Unit 42, provee información sobre multiples herramientas de Palo Alto Networks. Usando esta NTI, puedes investigar indicaderes y sus comportamientos y usar ese conocimiento para mejorar la proteccion de tu red por actividades maliciosas. 
 
