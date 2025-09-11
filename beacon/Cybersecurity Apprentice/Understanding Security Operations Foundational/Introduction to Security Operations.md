@@ -89,3 +89,12 @@ Esta logra conectar tecnologias de seguridad dispares a traves de flujos de trab
 * Tier Three Analyst: Presentes en las grandes empresas, estos analistas cuentan con una amplia experiencia en análisis forense de malware e ingeniería social, y se encargan de incidentes de seguridad más complejos y graves.
 
 
+SOAR components
+
+* Case Managmente
+* Ochestration Engine
+* Threat Intelligence Aggregation
+
+
+
+
