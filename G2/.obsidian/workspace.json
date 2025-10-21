@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "76c9a170b1909f40",
+    "id": "74724b6653526d9d",
     "type": "split",
     "children": [
       {
-        "id": "c9ae034e0029a80e",
+        "id": "a6fe9f8e97b99184",
         "type": "tabs",
         "children": [
           {
-            "id": "a2c11ed31e53ca90",
+            "id": "edacde0dc95e953d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modelo de capas/Tipos de red.md",
+                "file": "notas/Graphics 2/Primer parcial/Clase 4 09-09-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de red"
+              "title": "Clase 4 09-09-2025"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "df9e82f3e8dde166",
+    "id": "5a8521e3d25fc4ee",
     "type": "split",
     "children": [
       {
-        "id": "85b5b70c70345c82",
+        "id": "068eb52171a406b1",
         "type": "tabs",
         "children": [
           {
-            "id": "7b0244bb03b67ad2",
+            "id": "b80cd98cd3493dad",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "4eecfb7e3c67bc5b",
+            "id": "dee36f66044af39a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "ea3727e31004269f",
+            "id": "14fe4ce36d468c08",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "7bbfc2875084491b",
+    "id": "a47e94f92fe20a76",
     "type": "split",
     "children": [
       {
-        "id": "78bffb41abd2509f",
+        "id": "1c4e7a790bcc7ff3",
         "type": "tabs",
         "children": [
           {
-            "id": "d6b4b2073f4403cb",
+            "id": "40f219bc73975a54",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redes convergentes y Arquitectura de Red.md",
+                "file": "notas/Graphics 2/Primer parcial/Clase 4 09-09-2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Redes convergentes y Arquitectura de Red"
+              "title": "Backlinks for Clase 4 09-09-2025"
             }
           },
           {
-            "id": "17e97542af7f4016",
+            "id": "00422cc825fa8655",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redes convergentes y Arquitectura de Red.md",
+                "file": "notas/Graphics 2/Primer parcial/Clase 4 09-09-2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Redes convergentes y Arquitectura de Red"
+              "title": "Outgoing links from Clase 4 09-09-2025"
             }
           },
           {
-            "id": "a8d4202374e1bb19",
+            "id": "0de471c21fa19f3f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "e5533db43107f66e",
+            "id": "a5507a25222875a1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redes convergentes y Arquitectura de Red.md",
+                "file": "notas/Graphics 2/Primer parcial/Clase 4 09-09-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Redes convergentes y Arquitectura de Red"
+              "title": "Outline of Clase 4 09-09-2025"
             }
           }
         ]
@@ -160,28 +160,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-  "active": "a2c11ed31e53ca90",
+  "active": "edacde0dc95e953d",
   "lastOpenFiles": [
-    "Modelo de capas/Transmisión de datos y elemento de la red.md",
-    "Pasted image 20250819200930.png",
-    "Pasted image 20250819195704.png",
-    "Modelo de capas/Suite de protocolos y Modelos de red.md",
-    "Modelo de capas/Tipos de red.md",
-    "Conceptos Básicos.md",
-    "Introducción a las redes/Redes convergentes y Arquitectura de Red.md",
-    "Modelo de capas",
-    "Introducción a las redes/Dispositivos de red y sus conexiones.md",
-    "Redes convergentes y Arquitectura de Red.md",
-    "Introducción a las redes",
-    "Welcome.md"
+    "notas/Graphics 2/Primer parcial/Clase 3 05-09-2025.md",
+    "notas/Graphics 2/Primer parcial/Clase 2 04-09-2025.md",
+    "notas/Graphics 2/Primer parcial/Clase 1 27-08-2025.md"
   ]
 }
