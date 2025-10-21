@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "74724b6653526d9d",
+    "id": "91c8f3bed1f3acc4",
     "type": "split",
     "children": [
       {
-        "id": "c2b37d0ef5a048ce",
+        "id": "65cbdc547e0d0587",
         "type": "tabs",
         "children": [
           {
-            "id": "e46ecf6b32a59be8",
+            "id": "a461b80354b8cc0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas/Primer parcial/Clase 5 19-09-2025.md",
+                "file": "Splunk/Introduction to Splunk/2. Using Splunk Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clase 5 19-09-2025"
+              "title": "2. Using Splunk Web"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5a8521e3d25fc4ee",
+    "id": "58b05a3937fa309d",
     "type": "split",
     "children": [
       {
-        "id": "068eb52171a406b1",
+        "id": "0d734cecb4f1f646",
         "type": "tabs",
         "children": [
           {
-            "id": "b80cd98cd3493dad",
+            "id": "c263497c84eb29fb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "dee36f66044af39a",
+            "id": "cc3857698ebd3003",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "14fe4ce36d468c08",
+            "id": "7d9bda7e92b2c014",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "a47e94f92fe20a76",
+    "id": "1ad7438914a5959c",
     "type": "split",
     "children": [
       {
-        "id": "1c4e7a790bcc7ff3",
+        "id": "9715d0138954ae4a",
         "type": "tabs",
         "children": [
           {
-            "id": "40f219bc73975a54",
+            "id": "191351b40788085e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas/Graphics 2/Primer parcial/Clase 4 09-09-2025.md",
+                "file": "Splunk/Introduction to Splunk/2. Using Splunk Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clase 4 09-09-2025"
+              "title": "Backlinks for 2. Using Splunk Web"
             }
           },
           {
-            "id": "00422cc825fa8655",
+            "id": "554cf0acf40597e9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas/Graphics 2/Primer parcial/Clase 4 09-09-2025.md",
+                "file": "Splunk/Introduction to Splunk/2. Using Splunk Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Clase 4 09-09-2025"
+              "title": "Outgoing links from 2. Using Splunk Web"
             }
           },
           {
-            "id": "0de471c21fa19f3f",
+            "id": "a14b3d8e59f67b23",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "a5507a25222875a1",
+            "id": "c5f79d9fd7008495",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas/Graphics 2/Primer parcial/Clase 4 09-09-2025.md",
+                "file": "Splunk/Introduction to Splunk/2. Using Splunk Web.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Clase 4 09-09-2025"
+              "title": "Outline of 2. Using Splunk Web"
             }
           }
         ]
@@ -169,14 +169,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e46ecf6b32a59be8",
+  "active": "a461b80354b8cc0f",
   "lastOpenFiles": [
-    "notas/Primer parcial/Clase 6 22-09-2025.md",
-    "notas/Primer parcial/Clase 5 19-09-2025.md",
-    "notas/Graphics 2/Primer parcial/Untitled 1.md",
-    "notas/Graphics 2/Primer parcial/Clase 4 09-09-2025.md",
-    "notas/Graphics 2/Primer parcial/Clase 3 05-09-2025.md",
-    "notas/Graphics 2/Primer parcial/Clase 2 04-09-2025.md",
-    "notas/Graphics 2/Primer parcial/Clase 1 27-08-2025.md"
+    "Splunk/Introduction to Splunk/1. What is splunk.md",
+    "Splunk/Introduction to Splunk/2. Using Splunk Web.md",
+    "Untitled",
+    "Splunk/Introduction to Splunk",
+    "Splunk"
   ]
 }
