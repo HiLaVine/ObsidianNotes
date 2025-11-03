@@ -4,53 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "88eb9ec4a8939600",
+        "id": "c6b4946d051f9a49",
         "type": "tabs",
         "children": [
           {
-            "id": "6913ac1d470b1948",
+            "id": "0134c1d935ff5041",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Cybersecurity/Modulo 2/2.2 Métodos de infiltración.md",
+                "file": "Introduction to Cybersecurity/Modulo 3/3.2 Mantenimiento de datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.2 Métodos de infiltración"
+              "title": "3.2 Mantenimiento de datos"
             }
           },
           {
-            "id": "9e6186b58592899f",
+            "id": "e6a5312264a779e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction to Cybersecurity/Modulo 2/2.3 Aprovechamiento de las vulnerabilidades de seguridad.md",
+                "file": "Introduction to Cybersecurity/Modulo 4/4.1 Protegiendo la organización.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.3 Aprovechamiento de las vulnerabilidades de seguridad"
-            }
-          },
-          {
-            "id": "e8ea4be5f7ecf0ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction to Cybersecurity/Modulo 2/2.4 Cripto.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2.4 Cripto"
+              "title": "4.1 Protegiendo la organización"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,11 +184,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "e8ea4be5f7ecf0ca",
+  "active": "e6a5312264a779e5",
   "lastOpenFiles": [
-    "Introduction to Cybersecurity/Modulo 2/2.3 Aprovechamiento de las vulnerabilidades de seguridad.md",
+    "Introduction to Cybersecurity/Modulo 3/3.2 Mantenimiento de datos.md",
+    "Introduction to Cybersecurity/Modulo 4/4.1 Protegiendo la organización.md",
+    "Introduction to Cybersecurity/Modulo 3/Untitled",
+    "Introduction to Cybersecurity/Modulo 4",
+    "Introduction to Cybersecurity/Modulo 3",
     "Introduction to Cybersecurity/Modulo 2/2.4 Cripto.md",
-    "Untitled",
+    "Introduction to Cybersecurity/Modulo 2/2.3 Aprovechamiento de las vulnerabilidades de seguridad.md",
     "Introduction to Cybersecurity/Modulo 2/Pasted image 20251025133234.png",
     "Introduction to Cybersecurity/Modulo 2/2.2 Métodos de infiltración.md",
     "Introduction to Cybersecurity/Modulo 2/2.1 Analizando un ciberataque.md",
